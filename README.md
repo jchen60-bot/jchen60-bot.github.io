@@ -1,5 +1,3 @@
-# Diva: drive a mech elephant with your whole body
+# Moved
 
-Website for Team Diva (Eva, Carl, Vicky), DesComp Project 2 (DigiPhant): https://jchen60-bot.github.io
-
-Source code and downloads: https://github.com/EvaLuglitched/Diva
+The Diva website is now at https://diva-elephant.github.io
